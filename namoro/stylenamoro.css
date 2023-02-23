@@ -1,0 +1,19 @@
+img{
+    width: 100%;
+    padding: 0;
+}
+
+
+#caixa-pergunta {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: pink;
+    color: red;
+  }
+  
+  #caixa-pergunta.oculto {
+    display: none;
+  }
+  
